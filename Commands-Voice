@@ -1,0 +1,11 @@
+
+
+Global:
+  "Exit" = exit
+  "What can I say?" = Commands List
+Windows:
+  Windows Speech Recognition:
+    "Start" = Open Start Menu
+  Vocola or WSRMacros:
+    "Standby" or "Stand By" = Standby Computer
+
