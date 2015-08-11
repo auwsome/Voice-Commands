@@ -7,21 +7,31 @@
 Global Cross OS:
   "Exit" = exit
   "What can I say?" = Commands List
+  
+  
 Windows:
   Global Cross Application:
+  
   Windows Speech Recognition:
       "Start" = Open Start Menu
+      
   Vocola or WSRMacros:
       "Standby" or "Stand By" = cmd Standby 
+      
   Dragon Naturally Speaking:
   Dragonfly:
   Tatzi:
   eSpeaking:
   Cortana:
+  
+  
 Android:
   Global Cross Application:
       "Okay, Google" = Start Google Voice Search or Google App or Google Now
+      
   Google Voice Search or Google App or Google Now:
       "Flashlight on" = Turn on flashlight
       "Flashlight off" = Turn off flashlight
+      
+      
 Mac:
