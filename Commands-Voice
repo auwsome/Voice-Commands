@@ -1,4 +1,7 @@
-
+// The commands used by specific applications are listed by application and then by colloquial name at this GitHub Repository: 
+// https://github.com/auwsome/Commands
+// The list here represents the 'consensus' usage of each term per application. Collisions or conflicts can be 
+// disputed and resolved by creating an issue for each resolution and voting on it using GitPoll as described in the Read.me
 
 Global:
   "Exit" = exit
