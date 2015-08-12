@@ -11,7 +11,7 @@ Global Cross OS:
   "Log off"
   "Lock PC" or "Lock screen"
   "Restart computer"
-  Turn off / Power off
+  Shutdown / Turn off / Power off
   "Hibernate computer"
   Insert keystrokes = Insert [modifier] [modifier] key [0..99]
   "Volume up"
@@ -61,6 +61,7 @@ Windows:
       Sources:
         https://gist.github.com/clojens/9c3e3ff4b7a5535a2575
         http://windows.microsoft.com/en-us/windows-8/using-speech-recognition
+        http://www.ngtvoice.com/products/software/wsr/commands.htm
       
   Vocola or WSRMacros:
       "Standby" or "Stand By" = cmd Standby 
