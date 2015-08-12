@@ -13,8 +13,28 @@ Windows:
   Global Cross Application:
   
   Windows Speech Recognition:
-      "Start" = does something else
-      test
+      General:
+        "Start" = Open the Start screen or menu
+        Cancel = Cancel the current action or dialog
+        Start/stop listening = Turn on/off listening mode
+        Move speech recognition = Move the Speech Recognition microphone bar
+        Minimize speech recognition = Minimize the microphone bar
+        Click File; Start; View = Select any item by its name
+      Keys:
+        Press keyboard key; Press a; 
+        Press capital b; Press Shift plus a; Press Ctrl plus a
+        Delete; Backspace; Enter; Page Up; Page Down; Home; End; Tab = same
+      Charms:
+        Press Windows Q,S
+        Open the Search charm
+        Press Windows I
+        Open the Settings charm
+        Press Windows Z
+        Show the commands available in the app
+
+      Sources:
+        https://gist.github.com/clojens/9c3e3ff4b7a5535a2575
+        http://windows.microsoft.com/en-us/windows-8/using-speech-recognition
       
   Vocola or WSRMacros:
       "Standby" or "Stand By" = cmd Standby 
