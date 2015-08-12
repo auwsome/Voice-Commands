@@ -5,7 +5,7 @@ This project will serve to collect the most common speech recognition and voice 
 Create an issue for each collision.
 Vote on the issue by adding "+1" or "-1" as a comment, OR by accessing the GitPoll for each issue at:<br>
 "http://poll.gitrun.com/auwsome/Voice-Commands/issues/" plus the issue number such as:<br>
-http://poll.gitrun.com/auwsome/Voice-Commands/issues/1
+http://poll.gitrun.com/auwsome/Voice-Commands/issues/1<br>
 Alternatively, ZenHub can be used to vote for suggested alternatives under each issue (this requires Chrome Browser).
 
 If an issue is has more votes than another issue that represents an item on the consensus list, collaborators can create pull requests back to the master branch. Then you can add this list in whichever format is relevant to your favorite application's configuration file(s). 
