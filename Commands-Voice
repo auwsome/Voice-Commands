@@ -14,6 +14,7 @@ Windows:
   
   Windows Speech Recognition:
       "Start" = Open Start Menu
+      test
       
   Vocola or WSRMacros:
       "Standby" or "Stand By" = cmd Standby 
@@ -35,6 +36,6 @@ Android:
       
       
 Linux:
-https://github.com/baitsart/voice-commands/blob/master/voice_commands/speech_commands.sh
+  https://github.com/baitsart/voice-commands/blob/master/voice_commands/speech_commands.sh
       
 Mac:
