@@ -8,9 +8,17 @@ Global Cross OS:
   "Exit" = exit
   "What can I say?" = Commands List
   "Standby" = computer standby
-  Restart
+  "Log off"
+  "Lock PC" or "Lock screen"
+  "Restart computer"
   Turn off / Power off
+  "Hibernate computer"
   Insert keystrokes = Insert [modifier] [modifier] key [0..99]
+  "Volume up"
+  "Volume down"
+  "Brightness up"
+  "Brightness down"
+  "Switch to desktop" or "Switch to home"
   
   
 Windows:
@@ -69,6 +77,30 @@ Windows:
       http://vocola.net/v3/CheatSheet.asp
       
   Dragon Naturally Speaking:
+    "Hey, Dragon" 
+    "What is the weather like today?"
+    "start dictation"
+    "Send email"
+    "Open Quick Links"
+    "Snap app to right"
+    "Move right"
+    "Snap app to left"
+    "Move left"
+    "Turn on WiDi"
+    "Next page"
+    "Previous page"
+    "Open <folder name> folder"
+      "Open Documents folder"
+      "Open Downloads folder"
+      "Open Music folder"
+      "Open Videos folder"
+    "Open Control Panel"
+    "Launch Task Manager"
+    "Open Charms"
+    "Open Share charm"
+    "Launch Run box"
+    Source:
+      http://www.nuance.com/products/help/dragon/dragon-assistant/#overview/online_local_ovr.htm%3FTocPath%3D_____5
   Dragonfly:
   Tatzi:
   eSpeaking:
