@@ -1,6 +1,6 @@
 # Voice-Commands
 
-This project will collect common speech recognition and voice commands. Each conflicting keyword can be resolved by votes.
+This project will collect common speech recognition and voice commands. Conflicting keywords can be resolved by votes.
 
 * Create an issue for each collision. 
 * Vote on the issue 
