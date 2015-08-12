@@ -26,16 +26,3 @@ Windows:
   Cortana:
   
   
-Android:
-  Global Cross Application:
-      "Okay, Google" = Start Google Voice Search or Google App or Google Now
-      
-  Google Voice Search or Google App or Google Now:
-      "Flashlight on" = Turn on flashlight
-      "Flashlight off" = Turn off flashlight
-      
-      
-Linux:
-  https://github.com/baitsart/voice-commands/blob/master/voice_commands/speech_commands.sh
-      
-Mac:
