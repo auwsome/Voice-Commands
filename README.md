@@ -1,4 +1,4 @@
-# Speech-Commands-Vote-List
+# Voice-Commands
 
 This project will serve to collect the most common speech recognition and voice commands. Each implementation collision can be voted on to resolve the most popular use.
 
