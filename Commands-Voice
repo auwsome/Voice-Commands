@@ -3,39 +3,3 @@
 // at this GitHub Repository: https://github.com/auwsome/Commands
 // The list here represents the 'consensus' usage of each term per application. Collisions or conflicts can be 
 // disputed and resolved by creating an issue for each resolution and voting on it using GitPoll as described in the Read.me
-
-Global Cross OS:
-  "Exit" = exit
-  "What can I say?" = Commands List
-  
-  
-Windows:
-  Global Cross Application:
-  
-  Windows Speech Recognition:
-      "Start" = Open Start Menu
-      test
-      
-  Vocola or WSRMacros:
-      "Standby" or "Stand By" = cmd Standby 
-      
-  Dragon Naturally Speaking:
-  Dragonfly:
-  Tatzi:
-  eSpeaking:
-  Cortana:
-  
-  
-Android:
-  Global Cross Application:
-      "Okay, Google" = Start Google Voice Search or Google App or Google Now
-      
-  Google Voice Search or Google App or Google Now:
-      "Flashlight on" = Turn on flashlight
-      "Flashlight off" = Turn off flashlight
-      
-      
-Linux:
-  https://github.com/baitsart/voice-commands/blob/master/voice_commands/speech_commands.sh
-      
-Mac:
