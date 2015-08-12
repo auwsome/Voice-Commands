@@ -20,6 +20,19 @@ Windows:
         Move speech recognition = Move the Speech Recognition microphone bar
         Minimize speech recognition = Minimize the microphone bar
         Click File; Start; View = Select any item by its name
+        
+Click Recycle Bin; Click Computer; Click file name
+Select any item or icon
+
+Double-click Recycle Bin; Double-click Computer; Double-click file name
+Double tap or double-click any item
+
+Switch to Paint; Switch to WordPad; Switch to program name; Switch application
+Switch to an open app
+
+Scroll up; Scroll down; Scroll left; Scroll right
+Scroll in one direction
+
       Keys:
         Press keyboard key; Press a; 
         Press capital b; Press Shift plus a; Press Ctrl plus a
@@ -29,8 +42,53 @@ Windows:
         Open the Search charm
         Press Windows I
         Open the Settings charm
-        Press Windows Z
-        Show the commands available in the app
+        Press Windows Z; Right-click
+        Show the commands available in the appOperations
+
+Open an app
+Open Paint; Open WordPad; Open app name
+
+Switch to an open app
+Switch to Paint; Switch to WordPad; Switch to app name; Switch application
+
+Close an app
+Close that; Close Paint; Close Documents
+
+Minimize
+Minimize that; Minimize Paint; Minimize Documents
+
+Maximize
+Maximize that; Maximize Paint; Maximize Documents
+
+Restore
+Restore that; Restore Paint; Restore Documents
+
+Cut
+Cut that; Cut
+
+Copy
+Copy that; Copy
+
+Paste
+Paste
+
+Delete
+Delete that; Delete
+
+Undo
+Undo that; Scratch that; Undo
+
+Scroll in one direction
+Scroll up; Scroll down; Scroll right; Scroll left
+
+Scroll an exact distance in pages
+Scroll down 2 pages; Scroll up 10 pages
+
+Scroll an exact distance in other units
+Scroll up 5; Scroll down 7
+
+Go to a field in a form or an app
+Go to field name; Go to Subject; Go to Address; Go to cc
 
       Sources:
         https://gist.github.com/clojens/9c3e3ff4b7a5535a2575
