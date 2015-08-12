@@ -1,6 +1,6 @@
 # Voice-Commands
 
-This project will serve to collect the most common speech recognition and voice commands. Each implementation collision can be voted on to resolve the most popular use.
+This project will serve to collect the most common speech recognition and voice commands. Each collision can be resolved by GitPoll.
 
 Create an issue for each collision.
 Vote on the issue by adding "+1" or "-1" as a comment, OR by accessing the GitPoll for each issue at:<br>
