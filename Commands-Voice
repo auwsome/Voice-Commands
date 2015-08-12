@@ -9,22 +9,6 @@ Global Cross OS:
   "What can I say?" = Commands List
   
   
-Windows:
-  Global Cross Application:
-  
-  Windows Speech Recognition:
-      "Start" = Open Start Menu
-      test
-      
-  Vocola or WSRMacros:
-      "Standby" or "Stand By" = cmd Standby 
-      
-  Dragon Naturally Speaking:
-  Dragonfly:
-  Tatzi:
-  eSpeaking:
-  Cortana:
-  
   
 Android:
   Global Cross Application:
@@ -34,8 +18,3 @@ Android:
       "Flashlight on" = Turn on flashlight
       "Flashlight off" = Turn off flashlight
       
-      
-Linux:
-  https://github.com/baitsart/voice-commands/blob/master/voice_commands/speech_commands.sh
-      
-Mac:
