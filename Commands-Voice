@@ -2,7 +2,7 @@
 // and then by OS and receiving/active application and then by colloquial name,
 // at this GitHub Repository: https://github.com/auwsome/Commands
 // The list here represents the 'consensus' usage of each term per application. Collisions or conflicts can be 
-// discussed and resolved by creating an issue for each resolution and voting on it using GitPoll as described in the Read.me
+// discussed and resolved by creating an issue for each alternative and voting on them using GitPoll as described in the Read.me
 
 Global Cross OS:
   "Exit" = exit
