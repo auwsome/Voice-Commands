@@ -13,7 +13,7 @@ Windows:
   Global Cross Application:
   
   Windows Speech Recognition:
-      "Start" = Open Start Menu
+      "Start" = does something else
       test
       
   Vocola or WSRMacros:
