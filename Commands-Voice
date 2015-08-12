@@ -18,20 +18,20 @@ Windows:
   
   Windows Speech Recognition:
       General:
-        "Start" = Open the Start screen or menu
         Cancel = Cancel the current action or dialog
         Start/stop listening = Turn on/off listening mode
+        Click File; Start File; View File = Select any item by its name
+        Double-click item = Double-click any item
+        Right-click item = Press and hold or right-click any item
+        Cut, Copy, Paste, Delete, Undo, Scratch (that or word)
+        “How do I.. install a printer?” 
         Move speech recognition = Move the Speech Recognition microphone bar
         Minimize speech recognition = Minimize the microphone bar
-        Click File; Start File; View File = Select any item by its name
-        Double-click any item
-        Right-click any item = Press and hold or right-click any item
-        Open, Switch to program name = Open app or Switch to an open app
-        Show desktop = Minimize all windows to show your desktop
-        Close, Minimize, Maximize, Restore (*that* or program name)
-        Cut, Copy, Paste, Delete, Undo, Scratch
-         “How do I install a printer?” 
       Navigation:
+        "Start" = Open the Start screen or menu
+        Show desktop = Minimize all windows to show your desktop
+        Open or Switch to item = Open app or Switch to an open app
+        Close, Minimize, Maximize, Restore (*that* or program name)
         Scroll up,down,left,right = Scroll in one direction
         Scroll down 2 pages; Scroll up 10 pages = Scroll an exact distance in pages
         Scroll up 5; Scroll down 7 = Scroll an exact distance in other units
